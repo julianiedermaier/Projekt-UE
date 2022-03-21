@@ -1,5 +1,5 @@
 # Projekt-UE
-Buchmanagement- und empfehlungs Anwendung./
+Buchmanagement und -empfehlungs Anwendung./
 Dieses Repository beinhaltet alle relevanten Artefakte, die während des Projekts entstanden sind.
 Projekt-übergreifende Artefakte befinden sich im main-branch ohne Unterordner (grober Zeitplan zum Projektstart, ausführliche Dokumentation).
 Für alle anderen Artefakte wurden thematische Unterordner erstellt:
@@ -32,6 +32,6 @@ Für alle anderen Artefakte wurden thematische Unterordner erstellt:
 6. Sprint-Dokumentationen:
   - Dokumentationen der Meetings
   - Dokumentation des 1. Meetings mit Tutor
-7. Wettbwerbsanalyse:
+7. Wettbewerbsanalyse:
   - Feature-Matrix
   - Analyse der einzelnen Anwendungen
